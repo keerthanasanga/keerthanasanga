@@ -1,20 +1,22 @@
 
-### Hi there! 👋 I'm Keerthana Sanga
+# Hi there! 👋 I'm Keerthana Sanga
 
-> 💻 *Aspiring Python Developer | Problem Solver | Lifelong Learner*
+💻 *Aspiring Python Developer | Problem Solver | Lifelong Learner*
 
 ---
 
-### 🌱 **About Me**
+### 🌱 About Me
 
 * 🔭 I’m currently learning **Python** and exploring the fundamentals of programming.
-* 💡 Passionate about **solving problems** and **improving coding skills** every day.
-* 🎯 My goal is to **build a strong foundation** in **Data Structures and Algorithms (DSA)** using Python.
-* 📚 I love learning by doing — building small projects, experimenting, and growing continuously.
+* 💡 I’m passionate about solving problems and continuously improving my coding skills.
+* 🎯 My goal is to build a strong foundation in **Data Structures and Algorithms (DSA)** using Python.
+* 📚 I enjoy learning by doing — building small projects, experimenting, and growing every day.
 
 ---
 
-### 🧰 **Languages & Tools**
+### 🧰 Languages & Tools
+
+🐍 **Python** | 🧩 **Git & GitHub** | 🧮 **HTML & CSS (Basics)** | 🖥️ **VS Code**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -27,7 +29,10 @@
 
 ---
 
-### 📫 **Connect With Me**
+### 📫 Connect with Me
+
+📧 **Email:** [sangakeerthana16@gmail.com](mailto:sangakeerthana16@gmail.com)
+🔗 **GitHub:** [github.com/keerthanasanga](https://github.com/keerthanasanga)
 
 <p align="left">
   <a href="mailto:sangakeerthana16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -36,17 +41,18 @@
 
 ---
 
-### 💫 **Quote I Live By**
+### 💫 Quote I Live By
 
-> ⭐ *"Every expert was once a beginner — keep learning, keep coding!"*
+⭐ *"Every expert was once a beginner — keep learning, keep coding!"*
 
+---
 
-### ⚡ **Quick Stats**
+### ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthanasanga&show_icons=true&theme=tokyonight" alt="Keerthana's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanasanga&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
-
+---
 
