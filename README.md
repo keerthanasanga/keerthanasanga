@@ -1,7 +1,3 @@
-That’s a great start for your GitHub **README** profile, Keerthana! 🌟
-Here’s a **more professional, polished, and visually appealing version** of your `README.md` — with **icons, emojis, and markdown enhancements** that make it stand out beautifully while keeping it clean and beginner-friendly.
-
----
 
 ### Hi there! 👋 I'm Keerthana Sanga
 
