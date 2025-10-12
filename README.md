@@ -3,7 +3,7 @@ Here’s a **more professional, polished, and visually appealing version** of yo
 
 ---
 
-### 🌸 **Keerthana Sanga**
+### Hi there! 👋 I'm Keerthana Sanga
 
 > 💻 *Aspiring Python Developer | Problem Solver | Lifelong Learner*
 
@@ -44,7 +44,6 @@ Here’s a **more professional, polished, and visually appealing version** of yo
 
 > ⭐ *"Every expert was once a beginner — keep learning, keep coding!"*
 
----
 
 ### ⚡ **Quick Stats**
 
@@ -53,11 +52,5 @@ Here’s a **more professional, polished, and visually appealing version** of yo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanasanga&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
----
 
-Would you like me to:
-✅ **(a)** Make it more *minimal and elegant* (for a clean, resume-like feel),
-or
-✨ **(b)** Keep this *colorful and dynamic style* (more eye-catching for GitHub profiles)?
 
-I can adjust it accordingly.
