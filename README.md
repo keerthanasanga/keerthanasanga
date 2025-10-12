@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Keerthana Sanga
 
-<!--
-**keerthanasanga/keerthanasanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Python** and exploring the fundamentals of programming.  
+💡 I’m passionate about solving problems and continuously improving my coding skills.  
+🎯 My goal is to build a strong foundation in **Data Structures and Algorithms** using Python.  
+📚 I love learning by doing — building small projects, experimenting, and growing every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages & Tools
+- 🐍 Python  
+- 🧩 Git & GitHub  
+- 🧮 Basic HTML, CSS  
+- 🖥️ VS Code  
+
+---
+
+## 📫 Connect with Me
+📧 Email: sangakeerthana16@gmail.com
+🔗 GitHub: [github.com/keerthanasanga](https://github.com/keerthanasanga)
+
+---
+
+⭐ *"Every expert was once a beginner — keep learning, keep coding!"*
