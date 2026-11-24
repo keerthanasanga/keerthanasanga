@@ -58,7 +58,7 @@ A resume-building project designed to help users create and organize their profe
 
 **Focus:** Web development and user interface design.
 
-🔗 [View Repository](YOUR_RESUME_CRAFT_LINK)
+🔗 [View Repository](https://github.com/keerthanasanga/ResumeCraft)
 
 *Some of my projects are collaborative efforts developed with friends. I value teamwork, sharing ideas, and contributing to the development process.*
 
