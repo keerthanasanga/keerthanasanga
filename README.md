@@ -77,7 +77,7 @@ A resume-building project designed to help users create and organize their profe
 ## 🤝 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/sanga-keerthana-a9b259320">
+  <a href=www.linkedin.com/in/sanga-keerthana-a9b259320>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/keerthanasanga/keerthanasanga">
