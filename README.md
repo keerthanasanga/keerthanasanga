@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Keerthana Sanga
 
-💻 *Aspiring Python Developer | Problem Solver | Lifelong Learner*
+💻 *Aspiring full stack Developer | Problem Solver | Lifelong Learner*
 
 ---
 
