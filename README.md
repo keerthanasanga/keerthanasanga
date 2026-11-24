@@ -44,14 +44,13 @@ A project focused on simplifying library operations and managing library-related
 
 **Focus:** Application development and management workflows.
 
-🔗 [View Repository](YOUR_LIBRARY_PROJECT_LINK)
+🔗 [View Repository](https://github.com/keerthanasanga/Library_Management)
 
-### 2. 🎮 Tic-Tac-Toe
-A classic Tic-Tac-Toe game developed to practise programming logic and interactive application development.
+### 2. 🎮 todo app
+A classic Todo app for the Students to organize their daily routine works and to track their progress.
+**Focus:** Track daily routine works.
 
-**Focus:** Game logic and problem-solving.
-
-🔗 [View Repository](YOUR_TIC_TAC_TOE_LINK)
+🔗 [View Repository](https://github.com/keerthanasanga/todo-app)
 
 ### 3. 📄 Resume Craft
 A resume-building project designed to help users create and organize their professional resumes.
