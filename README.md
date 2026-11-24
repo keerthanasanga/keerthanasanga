@@ -77,10 +77,10 @@ A resume-building project designed to help users create and organize their profe
 ## 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/sanga-keerthana-a9b259320">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://github.com/keerthanasanga/keerthanasanga">
     <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>
