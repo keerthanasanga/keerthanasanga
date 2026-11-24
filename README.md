@@ -74,7 +74,6 @@ A resume-building project designed to help users create and organize their profe
 
 ---
 
-## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
