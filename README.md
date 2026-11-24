@@ -1,58 +1,97 @@
+# Hi there! 👋 I'm Keerthana
 
-# Hi there! 👋 I'm Keerthana Sanga
+### 💻 B.Tech CSE Student | Aspiring Software Developer
 
-💻 *Aspiring full stack Developer | Problem Solver | Lifelong Learner*
+I'm a Computer Science student passionate about building projects, solving problems, and continuously improving my development skills.
+
+I enjoy exploring new technologies, developing practical applications, and strengthening my programming fundamentals.
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- ☕ Currently focusing on **Java and Data Structures & Algorithms**
+- 🌐 Interested in **Web Development**
+- 🧩 Practising problem-solving and logical thinking
+- 🚀 Building projects to gain practical development experience
+- 🤝 Enjoy collaborating with others and learning through teamwork
+- 📚 Always curious to learn something new!
 
 ---
 
-### 🌱 About Me
+## 🛠️ Technical Skills
 
-* 🔭 I’m currently learning **Python** and exploring the fundamentals of programming.
-* 💡 I’m passionate about solving problems and continuously improving my coding skills.
-* 🎯 My goal is to build a strong foundation in **Data Structures and Algorithms (DSA)** using Python.
-* 📚 I enjoy learning by doing — building small projects, experimenting, and growing every day.
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
 
----
+### Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-### 🧰 Languages & Tools
-
-🐍 **Python** | 🧩 **Git & GitHub** | 🧮 **HTML & CSS (Basics)** | 🖥️ **VS Code**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📂 Projects
 
-📧 **Email:** [sangakeerthana16@gmail.com](mailto:sangakeerthana16@gmail.com)
-🔗 **GitHub:** [github.com/keerthanasanga](https://github.com/keerthanasanga)
+Here are some projects I've worked on:
 
-<p align="left">
-  <a href="mailto:sangakeerthana16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/keerthanasanga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 1. 📚 Library Management System
+A project focused on simplifying library operations and managing library-related information.
+
+**Focus:** Application development and management workflows.
+
+🔗 [View Repository](YOUR_LIBRARY_PROJECT_LINK)
+
+### 2. 🎮 Tic-Tac-Toe
+A classic Tic-Tac-Toe game developed to practise programming logic and interactive application development.
+
+**Focus:** Game logic and problem-solving.
+
+🔗 [View Repository](YOUR_TIC_TAC_TOE_LINK)
+
+### 3. 📄 Resume Craft
+A resume-building project designed to help users create and organize their professional resumes.
+
+**Focus:** Web development and user interface design.
+
+🔗 [View Repository](YOUR_RESUME_CRAFT_LINK)
+
+*Some of my projects are collaborative efforts developed with friends. I value teamwork, sharing ideas, and contributing to the development process.*
+
+---
+
+## 📈 Current Learning Goals
+
+- Strengthening Java programming fundamentals.
+- Practising Data Structures and Algorithms.
+- Improving problem-solving skills.
+- Learning more about web development.
+- Building practical and meaningful projects.
+- Understanding software development practices.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=googlechrome" />
+  </a>
 </p>
 
 ---
 
-### 💫 Quote I Live By
+### ✨ A Little About My Journey
 
-⭐ *"Every expert was once a beginner — keep learning, keep coding!"*
+I believe that consistency, curiosity, and continuous learning are the keys to becoming a better developer.
 
----
+I'm currently focused on improving my programming skills, building projects, and growing one step at a time.
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthanasanga&show_icons=true&theme=tokyonight" alt="Keerthana's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanasanga&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
+**"Learning by building. Growing by solving. Improving every day."** 🚀
